@@ -40,13 +40,13 @@ Het dashboard is gebouwd met [R Shiny](https://shiny.posit.co/) en [Plotly](http
 | Repository | Omschrijving |
 |---|---|
 | [`dashboard`](https://github.com/AMRZNN/dashboard) | R Shiny AMR-dashboard voor Noord-Nederland |
-| [`rrp`](https://github.com/AMRZNN/rrp) | Regionaal Resistentieprofiel – datapipeline en dashboard |
+| [`dashboard_data`](https://github.com/AMRZNN/dashboard_data) | Publieke data die in het dashboard staan |
 
 ---
 
 ## 📬 Contact
 
-Voor vragen of samenwerking kunt u contact opnemen via de aangesloten zorginstellingen of via de beheerders van dit netwerk.
+Voor vragen of samenwerking kunt u contact opnemen via <https://www.amrznn.nl>.
 
 ---
 
